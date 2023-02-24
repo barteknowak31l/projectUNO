@@ -1,0 +1,1 @@
+# projectUNO is a project I made during low-level programming course. It's an implementation of popular UNO! card game. It includes games up to four (human or computer) players. Computer players use Monte Carlo Tree Search heuristics to evaluate best possible card to play.
